@@ -1,1 +1,13 @@
 /* Ini CSS */
+
+.main-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-article {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.main-logo {}
